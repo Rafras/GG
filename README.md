@@ -1,3 +1,4 @@
 # GG
-Rafał Raszka , Programista \n
+Rafał Raszka , Programista 
+///////////////////////////////////////
 Karol Cieślik , balans grafiki
